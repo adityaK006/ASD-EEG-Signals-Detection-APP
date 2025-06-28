@@ -8,6 +8,7 @@ This project focuses on detecting Autism Spectrum Disorder (ASD) using EEG signa
 - Multiple deep learning model implementations (RNN, CNN-RNN, CNN-BiRNN)
 - Model evaluation and comparison
 - Deployment of the final model in an Android app using TensorFlow Lite
+- And used python venv 3.12.7
 
 ---
 
