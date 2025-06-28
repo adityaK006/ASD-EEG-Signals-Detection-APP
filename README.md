@@ -12,7 +12,7 @@ This project focuses on detecting Autism Spectrum Disorder (ASD) using EEG signa
 ---
 
 ## 📂 Project Structure
-
+```
 ├── data/ # Raw and preprocessed EEG datasets
 ├── preprocessing/ # Scripts for loading, preprocessing EEG data
 │ ├── load_data.py
@@ -34,7 +34,7 @@ This project focuses on detecting Autism Spectrum Disorder (ASD) using EEG signa
 ├── results/ # Saved figures for Overleaf and reporting
 ├── README.md
 └── requirements.txt
-
+```
 
 ---
 
